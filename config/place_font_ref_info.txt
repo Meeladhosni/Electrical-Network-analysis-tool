@@ -1,0 +1,3 @@
+saved_x_value = 100
+saved_y_value = 100
+saved_f_value = 0
